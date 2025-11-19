@@ -1,0 +1,5 @@
+{
+  "name": "Log Analytics Chatbot Proposal",
+  "description": "Interactive system architecture proposal for a high-scale log analytics chatbot featuring real-time ingestion and 0.5s latency.",
+  "requestFramePermissions": []
+}
